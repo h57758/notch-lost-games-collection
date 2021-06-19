@@ -9,5 +9,4 @@
 # Minicraft
  Run The **minicraft.jar** File
 # Sources
- archive.org
- github.com
+ archive.org, github.com
