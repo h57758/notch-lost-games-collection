@@ -1,4 +1,5 @@
-# notch-games-collection
+notch-lost-games-collection
+===========================
  **Notch**'s **Lost Java Games**
 # Prelude Of The Chambered
  Run **BUILD_PoC.bat** To Build **Prelude Of The Chambered** Or Run **PoC.jar**
